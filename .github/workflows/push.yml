@@ -13,5 +13,5 @@ jobs:
       with:
         username: ${{ secrets.DOCKER_USERNAME }}
         password: ${{ secrets.DOCKER_PASSWORD }}
-        repository: schizo99/RTSPtoWeb
+        repository: schizo99/rtsptoweb
         tags: latest
